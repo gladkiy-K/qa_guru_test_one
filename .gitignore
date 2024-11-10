@@ -1,0 +1,22 @@
+HELP.md
+build/
+!**/src/main
+!**/src/test
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Gradle
+.gradle
+
+### Allure
+.allure
+
+### Logs
+*.log
