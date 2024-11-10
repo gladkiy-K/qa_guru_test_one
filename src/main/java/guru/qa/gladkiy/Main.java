@@ -5,7 +5,7 @@ public class Main {
         System.out.println("lets add some different lines");
     }
 
-    private static String(){
+    private static String getMessage(){
         return "Another one msg!";
     }
     
